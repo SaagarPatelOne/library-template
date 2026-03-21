@@ -15,4 +15,6 @@ Fallback path:
 
 ## Scope
 
-This is the default security guidance for repositories created from this template. A repository may replace it with a more specific policy later.
+This is the default security guidance for repositories created from this library template.
+
+If the repository becomes widely reused, published publicly, or responsible for auth, crypto, or data-handling helpers, replace this file with a more specific policy as early as practical.
